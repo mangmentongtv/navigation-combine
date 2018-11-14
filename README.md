@@ -33,9 +33,8 @@ expo start
 
 <p>It will show web interface and on your Android or IOS device, open Expo Client make sure on your machine and device are the same account and network</p>
 
-Violaaa thats it.
-Happy Hacking!
-MIT License.
-===
+<p>Violaaa thats it.</p>
+<p>Happy Hacking!</p>
+<p>MIT License.</p>
 
 
