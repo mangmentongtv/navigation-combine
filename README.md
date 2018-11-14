@@ -10,6 +10,8 @@
 <p>Download project directory anywhere on your machine</p> 
 
 <p>Install Expo CLI</p>
+
+
 ```
 npm install -g expo-cli
 ```
